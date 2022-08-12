@@ -1,4 +1,4 @@
-# Python-Password-Hasher
+#Hasher
 Passwords play a critical role in online authentication.Unfortunately, passwords suffer from
 two seemingly in tractable problems: password cracking and passwordtheft. In this project
 we have propse "Hash it" a GUI application which is used to generate and hash the
